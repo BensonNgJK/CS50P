@@ -1,0 +1,7 @@
+pip install sys
+pip install argparse
+pip install re
+pip install csv
+pip install validator-collection
+pip install cowsay
+pip install bcrypt
